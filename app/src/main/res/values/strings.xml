@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="back">بازگشت</string>
+    <string name="again">فال مجدد</string>
+    <string name="back2">بازگشت</string>
+    <string name="todo11">TODO</string>
+    <string name="todo13">TODO</string>
+</resources>
